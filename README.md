@@ -10,7 +10,7 @@ To install, you will need to clone the git, then run the setup.py script:
 
     git clone https://github.com/flungo/django_cms_auth_apphook.git
     cd django_cms_auth_apphook
-    python setup.py
+    python setup.py install
   
 Configuration
 -------------
