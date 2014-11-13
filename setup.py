@@ -14,5 +14,5 @@ setup(
     license='MIT',
     author='Fabrizio Lungo',
     author_email='fab@lungo.co.uk',
-    description='App hook to make integration with the standard Django Auth Library easier. Also includes templates for all auth views.'
+    description='App hook to make integration with the standard Django Auth Library easier when using Django CMS.'
 )
