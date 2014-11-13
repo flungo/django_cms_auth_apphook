@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 GIT_URL = 'https://github.com/flungo/django_cms_auth_apphook'
 
 setup(
