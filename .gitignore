@@ -1,0 +1,5 @@
+# Exclude IDE
+.idea/
+
+# Exclude compiled python
+*.pyc
