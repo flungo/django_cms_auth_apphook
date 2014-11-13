@@ -1,6 +1,8 @@
 # Exclude IDE
 .idea/
 
-# Exclude compiled python
+# Exclude compiled python and generated folders and files
 *.pyc
 build/
+dist/
+MANIFEST
