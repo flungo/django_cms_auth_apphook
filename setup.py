@@ -7,6 +7,8 @@ setup(
     name='django_cms_auth_apphook',
     version=VERSION,
     packages=['auth_apphook'],
+    package_dir={'auth_apphook': 'auth_apphook'},
+    package_data={'auth_apphook': ['templates/*', 'templates/registration/*']},
     url=GIT_URL,
     download_url=GIT_URL + "/tarball/" + VERSION,
     license='MIT',
