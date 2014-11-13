@@ -9,7 +9,7 @@ setup(
     version=VERSION,
     packages=['auth_apphook'],
     url=GIT_URL,
-    download_url= GIT_URL + "/tarball/" + VERSION,
+    download_url= GIT_URL + "/tarball/" + VERSION + ".tar.gz",
     license='MIT',
     author='Fabrizio Lungo',
     author_email='fab@lungo.co.uk',
